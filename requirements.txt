@@ -1,0 +1,6 @@
+langchain
+sentence-transformers
+pandas
+markdown
+tiktoken
+faiss-cpu
