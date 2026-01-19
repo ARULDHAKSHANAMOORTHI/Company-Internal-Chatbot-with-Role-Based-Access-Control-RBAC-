@@ -1,6 +1,10 @@
 langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+chromadb
 sentence-transformers
+fastapi
+uvicorn
+python-dotenv
 pandas
-markdown
-tiktoken
-faiss-cpu
